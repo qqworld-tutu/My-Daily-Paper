@@ -1,0 +1,7 @@
+{
+  "paper_id": "arxiv:2401.00001",
+  "title_en": "Transformer Retrieval for Long Context",
+  "summary_zh": "该论文研究长上下文检索增强方法。作者提出了新的训练策略并验证了效果。实验结果显示该方法在多个基准上稳定提升。",
+  "source_tag": "arXiv",
+  "source_url": "https://arxiv.org/abs/2401.00001"
+}

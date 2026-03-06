@@ -1,0 +1,14 @@
+.pytest_cache/
+.omx/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+logs/
+data/state/
+
+config/local.yaml
+.env
+.env.*
+!.env.example

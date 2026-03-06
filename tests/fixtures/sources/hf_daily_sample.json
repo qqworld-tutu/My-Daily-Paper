@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "hf-1001",
+      "title": "Multimodal Retrieval with Better Negative Mining",
+      "abstract": "We improve multimodal retrieval quality by hard negative mining and better curriculum.",
+      "authors": ["Eve Chen"],
+      "published_at": "2026-03-01T00:00:00Z",
+      "url": "https://huggingface.co/papers/hf-1001",
+      "popularity": 0.92
+    },
+    {
+      "id": "hf-1002",
+      "title": "Scalable Agentic Planning for Code Generation",
+      "abstract": "Agentic planning improves long horizon code generation tasks in constrained contexts.",
+      "authors": ["Frank Gao"],
+      "published_at": "2026-02-28T00:00:00Z",
+      "url": "https://huggingface.co/papers/hf-1002",
+      "popularity": 0.88
+    },
+    {
+      "id": "hf-1003",
+      "title": "Efficient Attention Kernels for Inference",
+      "abstract": "We design practical attention kernels and evaluate throughput gains in production.",
+      "authors": ["Grace Lin"],
+      "published_at": "2026-02-27T00:00:00Z",
+      "url": "https://huggingface.co/papers/hf-1003",
+      "popularity": 0.77
+    },
+    {
+      "id": "hf-1004",
+      "title": "Long Context Memory for LLM Agents",
+      "abstract": "Memory compression and retrieval improve long context instruction fidelity in agents.",
+      "authors": ["Henry Xu"],
+      "published_at": "2026-02-25T00:00:00Z",
+      "url": "https://huggingface.co/papers/hf-1004",
+      "popularity": 0.84
+    }
+  ]
+}

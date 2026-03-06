@@ -1,0 +1,4 @@
+weights:
+  interest: 0.80
+  freshness: 0.10
+  trending: 0.10

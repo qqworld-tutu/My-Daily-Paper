@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "source_tag": "arXiv",
+      "source_id": "2401.99999",
+      "title": "Cross Source Duplicate Paper",
+      "abstract": "A",
+      "authors": ["Dup Author"],
+      "published_at": "2026-02-20T00:00:00Z",
+      "url": "https://arxiv.org/abs/2401.99999",
+      "source_popularity": 0.0
+    },
+    {
+      "source_tag": "HF Daily",
+      "source_id": "dup-1",
+      "title": "Cross Source Duplicate Paper",
+      "abstract": "B",
+      "authors": ["Dup Author"],
+      "published_at": "2026-02-21T00:00:00Z",
+      "url": "https://arxiv.org/abs/2401.99999",
+      "source_popularity": 0.8
+    },
+    {
+      "source_tag": "HF Daily",
+      "source_id": "uniq-1",
+      "title": "Unique Paper",
+      "abstract": "C",
+      "authors": ["Unique Author"],
+      "published_at": "2026-02-22T00:00:00Z",
+      "url": "https://huggingface.co/papers/uniq-1",
+      "source_popularity": 0.2
+    }
+  ]
+}

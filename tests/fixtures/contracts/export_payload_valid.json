@@ -1,0 +1,22 @@
+{
+  "run_id": "20260303-0900-abcd",
+  "run_date": "2026-03-03",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "name": "For You",
+      "items": []
+    },
+    {
+      "name": "Trending Now",
+      "items": []
+    }
+  ],
+  "metrics": {
+    "fetched_counts_by_source": {"arXiv": 4, "HF Daily": 4},
+    "dedup_count": 0,
+    "selected_count": 8,
+    "delivery_status": "SUCCESS"
+  },
+  "version": "v1"
+}

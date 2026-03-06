@@ -1,0 +1,30 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <id>http://arxiv.org/abs/2401.00001</id>
+    <title>Transformer Retrieval for Long Context</title>
+    <summary>We study retrieval enhanced transformer methods for long context reasoning.</summary>
+    <published>2026-03-01T00:00:00Z</published>
+    <author><name>Alice Zhang</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.00002</id>
+    <title>Diffusion Models for Scientific Discovery</title>
+    <summary>This work explores diffusion-based generation for scientific hypothesis search.</summary>
+    <published>2026-02-27T00:00:00Z</published>
+    <author><name>Bob Li</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.00003</id>
+    <title>Vision Language Alignment with Sparse Tokens</title>
+    <summary>We propose sparse token alignment for robust vision language representation learning.</summary>
+    <published>2026-02-26T00:00:00Z</published>
+    <author><name>Carol Wu</name></author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.00004</id>
+    <title>Efficient RLHF under Budget Constraints</title>
+    <summary>We benchmark cost-aware RLHF strategies and present a stronger baseline.</summary>
+    <published>2026-02-24T00:00:00Z</published>
+    <author><name>David Sun</name></author>
+  </entry>
+</feed>

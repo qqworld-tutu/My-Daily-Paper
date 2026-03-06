@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "source_tag": "arXiv",
+      "source_id": "3000.00001",
+      "title": "Transformer Retrieval with Domain Memory",
+      "abstract": "retrieval transformer retrieval transformer",
+      "authors": ["A"],
+      "published_at": "2026-01-01T00:00:00Z",
+      "url": "https://arxiv.org/abs/3000.00001",
+      "source_popularity": 0.1
+    },
+    {
+      "source_tag": "HF Daily",
+      "source_id": "hf-zz",
+      "title": "High Throughput Vision Encoder",
+      "abstract": "computer vision acceleration",
+      "authors": ["B"],
+      "published_at": "2026-03-01T00:00:00Z",
+      "url": "https://huggingface.co/papers/hf-zz",
+      "source_popularity": 0.95
+    }
+  ]
+}
